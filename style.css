@@ -989,6 +989,7 @@ body {
 
 .site-header {
     background: #101116;
+    color: var(--text);
     min-height: min(800px, 100svh);
 }
 
@@ -1046,6 +1047,7 @@ body {
     letter-spacing: -0.045em;
     line-height: 0.99;
     max-width: 720px;
+    color: #fff;
     text-transform: none;
 }
 
