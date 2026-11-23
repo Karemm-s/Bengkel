@@ -144,7 +144,7 @@ a {
 
 .site-header::before {
     animation: bgZoom 16s ease-in-out infinite alternate;
-    background: url("../assets/images/bengkel-fajar-mulia.jpeg") center 47% / cover no-repeat;
+    background: url("bengkel-fajar-mulia.jpeg") center 47% / cover no-repeat;
     filter: saturate(1.12) contrast(1.08) brightness(1.06);
     opacity: 0.78;
 }
